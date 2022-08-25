@@ -1,6 +1,6 @@
 # serial number for this computer
 
-[![serial number for this computer](get-startted.png)](https://github.com/techrapidly/serial.number.for.this.computer)
+[![serial number for this computer](get-startted.png)](https://computersolve.com/serial-number-for-this-computer/)
 
 Sometimes abbreviated as Serial No., SN, S/N, or SNID, a serial number is a unique number used for identification and inventory purposes. A serial number allows a company to identify a product and get additional information about it for replacement or to find compatible parts. Pictured is an example of what a serial number may look like on the back or side of a computer.
 
